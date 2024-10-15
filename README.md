@@ -1,1 +1,1 @@
-YOu should read me
+# Programming learning journal
