@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "tutorials prototype.sln"
+    "dotnet.defaultSolution": "Game-Programming-Prototype-semester-1-24-25 - Copy.sln"
 }
