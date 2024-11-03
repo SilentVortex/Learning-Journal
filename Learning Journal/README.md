@@ -22,8 +22,11 @@ Another user in the same post wrote a comment saying to use a hinge point and th
     
 Im going to attempt to make the physics based on but i will also make the collider version as a backup option.
 
-## 2024/11/24
-Attempting to finish what was done above and will start making the tutorial for this, it will prove useful as searches on how to make a seesaw platform seem to bring up either unavailable content or content that uses within a whole tutorial project.
+## 2024/11/3
+Attempting to finish what was done above and will start making the tutorial for this, it will prove useful as searches on how to make a seesaw platform seem to bring up either unavailable content or content that uses within a whole tutorial project. 
+
+#### 3:56pm
+Finished making the seesaw platform and uploaded the porject to github. Link to Repository (link goes here)
 
 
 
