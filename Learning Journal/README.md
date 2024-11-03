@@ -26,7 +26,7 @@ Im going to attempt to make the physics based on but i will also make the collid
 Attempting to finish what was done above and will start making the tutorial for this, it will prove useful as searches on how to make a seesaw platform seem to bring up either unavailable content or content that uses within a whole tutorial project. 
 
 #### 3:56pm
-Finished making the seesaw platform and uploaded the porject to github. Link to Repository (link goes here)
+Finished making the seesaw platform and uploaded the project to github. Link to Repository (link goes here)
 
 
 
