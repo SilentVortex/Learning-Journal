@@ -31,5 +31,8 @@ Finished making the seesaw platform and uploaded the project to github. Link to 
 ## 2024/11/5
 Today I decided to make a 2d camera that will follow an object such as a character. While looking at a tutorial (https://youtu.be/2jTY11Am0Ig?feature=shared) I came across the issue of my version of cinemachine not having an option for the 2d camera seen in the tutorial. A quick search later revealed that they had just moved the option to another place as seen here (https://www.reddit.com/r/Unity2D/comments/10h7m50/no_create_2d_camera_option_in_cinemachine/). After that I had a functioning 2d camera however it is not completely finished at the moment. Needs to be finished.
 
+## 2024/11/12
+I went back to brief 1 to add a movment function when the player is on it so that it has code attached to it.
+
 
 
