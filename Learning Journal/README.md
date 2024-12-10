@@ -26,7 +26,9 @@ Im going to attempt to make the physics based on but i will also make the collid
 Attempting to finish what was done above and will start making the tutorial for this, it will prove useful as searches on how to make a seesaw platform seem to bring up either unavailable content or content that uses within a whole tutorial project. 
 
 #### 3:56pm
-Finished making the seesaw platform and uploaded the project to github. Link to Repository (link goes here)
+Finished making the seesaw platform and uploaded the project to github.
+
+ [Tutorial 1 repository link](https://github.com/SilentVortex/Tutorial-1-seesaw-platform)
 
 ## 2024/11/5
 Today I decided to make a 2d camera that will follow an object such as a character. While looking at a tutorial (https://youtu.be/2jTY11Am0Ig?feature=shared) I came across the issue of my version of cinemachine not having an option for the 2d camera seen in the tutorial. A quick search later revealed that they had just moved the option to another place as seen here (https://www.reddit.com/r/Unity2D/comments/10h7m50/no_create_2d_camera_option_in_cinemachine/). After that I had a functioning 2d camera however it is not completely finished at the moment. Needs to be finished.
