@@ -34,5 +34,8 @@ Today I decided to make a 2d camera that will follow an object such as a charact
 ## 2024/11/12
 I went back to brief 1 to add a movment function when the player is on it so that it has code attached to it.
 
+## 2024/12/10
+After much time I started working on my 2nd tutorial, this took a while due to me reusing old code that i still had and fixing issues it had since it had to be migrated from an older unity version. After making a working scene with all the functions I need to make a tutorial on it I began to write up the tutorial.
+
 
 
