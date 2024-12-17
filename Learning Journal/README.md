@@ -39,5 +39,8 @@ I went back to brief 1 to add a movment function when the player is on it so tha
 ## 2024/12/10
 After much time I started working on my 2nd tutorial, this took a while due to me reusing old code that i still had and fixing issues it had since it had to be migrated from an older unity version. After making a working scene with all the functions I need to make a tutorial on it I began to write up the tutorial.
 
+##2024/12/17
+After a whole week I am still on my second tutorial due to issues with getting the code to work as well as lack of time available, I intend work on it more this week as much as I can.
+
 
 
