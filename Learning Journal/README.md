@@ -42,5 +42,13 @@ After much time I started working on my 2nd tutorial, this took a while due to m
 ##2024/12/17
 After a whole week I am still on my second tutorial due to issues with getting the code to work as well as lack of time available, I intend work on it more this week as much as I can.
 
+## 2025/1/9 - 2025/1/11
+During these days I got back to working on my tutorials, I had put off doing them due to other modules needing to be submit earlier, however at the end of this I had finished my 2nd tutorial and moved onto my next one.
+[Tutorial 2 repository link](https://github.com/SilentVortex/Tutorial-2)
 
+## 2025/1/12
+During this day I started my 3rd tutorial, which was a main menu. Since I already had the code for the main menu, all I had to do was change it up a bit so that it could be used as a way to change between each level of a game. It does this by using specific scene names rather than going up a number in the scene order which allows me to make  a level select if i so wish as it just uses public methods which can be tied to buttons.
+
+## 2025/1/13
+Today I aim to finish the 3rd tutorial and move on my final tutorial, so far I have not run into any issues when making my code other than testing other functions such as using [SerializeField] instead of making my methods public for me to be able to use it with Unity's button game object. I will continue to work on this tutorial and hopefully it will be finished by today.
 
