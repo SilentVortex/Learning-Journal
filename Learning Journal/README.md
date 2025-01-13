@@ -44,6 +44,7 @@ After a whole week I am still on my second tutorial due to issues with getting t
 
 ## 2025/1/9 - 2025/1/11
 During these days I got back to working on my tutorials, I had put off doing them due to other modules needing to be submit earlier, however at the end of this I had finished my 2nd tutorial and moved onto my next one.
+
 [Tutorial 2 repository link](https://github.com/SilentVortex/Tutorial-2)
 
 ## 2025/1/12
