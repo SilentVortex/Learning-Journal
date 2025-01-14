@@ -67,6 +67,6 @@ I began work on my prototype and realised I had already made a mai menu for it e
 
 I had realised the reason why it had not worked when I made it was due to it using legacy dropdowns instead of the newer TextMeshPro versions, once that was changed it began working. I should probably find out how to change it the newer dropdowns in my own time since the lgacy options will be removed at one point.
 
-
+I had finished the day off by putting all the necessary files i needed to make my prototype from my tutorials into my scenes and with that done i was ready to add the scripts i needed as well as any other parts that i need in order to make the prototype function completely.
 
 [Prototype repository](https://github.com/SilentVortex/Learning-Journal)
