@@ -3,20 +3,21 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Audio;
 using UnityEngine.UI;
-public class SettingsMenu : MonoBehaviour
-{
+    public class SettingsMenu : MonoBehaviour
+    {
     public AudioMixer audioMixer;
 
     public Dropdown resolutionDropdown;
 
     Resolution[] resolutions;
     
-    void start ()
+    void Start ()
     {
         resolutions = Screen.resolutions;
 
         resolutionDropdown.ClearOptions();
 
+        
         List<string> options = new List<string>();
         
         int currentResolutionIndex = 0;
