@@ -62,4 +62,10 @@ I have finished my 4th tutorial and can now move on to making my prototype, I am
 
 [Tutorial 4 repository](https://github.com/SilentVortex/Tutorial_4)
 
+##2025/1/14
+I began work on my prototype and realised I had already made a mai menu for it earlier, I decided to keep this but make sure that it still works as intended. The settings menu was giving me some errors so I decided to do some bug fixing to make it work correctly.
+
+I had realised the reason why it had not worked when I made it was due to it using legacy dropdowns instead of the newer TextMeshPro versions, once that was changed it began working. I should probably find out how to change it the newer dropdowns in my own time since the lgacy options will be removed at one point.
+
+
 [Prototype repository]()
