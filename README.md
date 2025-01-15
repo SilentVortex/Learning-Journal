@@ -75,4 +75,4 @@ Now that I had gotten all my resources together I began to make the level that w
 
 I then fixed up some code to make it function as a game, once done I could fully play the game.
 
-[Prototype repository](https://github.com/SilentVortex/Learning-Journal)
+[Prototype repository](https://github.com/SilentVortex/Learning-Journal-and-prototype-project)
