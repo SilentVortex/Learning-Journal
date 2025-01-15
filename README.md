@@ -75,4 +75,6 @@ Now that I had gotten all my resources together I began to make the level that w
 
 I then fixed up some code to make it function as a game, once done I could fully play the game.
 
+Once the game was fully playable I then went and made the video for it and uploaded my source code to the Github repository that I had for it, with that done I was then ready to submit to the VLE.
+
 [Prototype repository](https://github.com/SilentVortex/Learning-Journal-and-prototype-project)
