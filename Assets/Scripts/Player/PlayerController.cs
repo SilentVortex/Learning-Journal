@@ -1,4 +1,4 @@
-//code is from https://github.com/LSBUGPG/movement-tutorial and https://qookie.games/2d-player-movement/
+//code is from https://github.com/LSBUGPG/movement-tutorial and https://qookie.games/2d-player-movement/, edited by me for this case.
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -7,6 +7,10 @@ public class PlayerController : MonoBehaviour
     public float jumpForce = 5f;
     bool isGrounded;
     Rigidbody2D rb;
+    public Transform player;
+    public bool goal = false;
+
+    private float kill = 1000.0f;
 
     void Start()
     {
@@ -30,7 +34,24 @@ public class PlayerController : MonoBehaviour
         {
             isGrounded = true;
         }
+        
+        if (collision.gameObject.CompareTag("InstantDeath"))
+        {
+            goal = true;
+            player.GetComponent<PlayerHealth>().TakeDamage(kill);
+
+        }
+
+        if (collision.gameObject.CompareTag("Goal"))
+        {
+            goal = true;
+            player.GetComponent<PlayerHealth>().Win(goal);
+
+        }
+
     }
+
+
 
     void OnCollisionExit2D(Collision2D collision)
     {
