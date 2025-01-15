@@ -62,11 +62,17 @@ I have finished my 4th tutorial and can now move on to making my prototype, I am
 
 [Tutorial 4 repository](https://github.com/SilentVortex/Tutorial_4)
 
-##2025/1/14
+## 2025/1/14
 I began work on my prototype and realised I had already made a mai menu for it earlier, I decided to keep this but make sure that it still works as intended. The settings menu was giving me some errors so I decided to do some bug fixing to make it work correctly.
 
 I had realised the reason why it had not worked when I made it was due to it using legacy dropdowns instead of the newer TextMeshPro versions, once that was changed it began working. I should probably find out how to change it the newer dropdowns in my own time since the lgacy options will be removed at one point.
 
 I had finished the day off by putting all the necessary files i needed to make my prototype from my tutorials into my scenes and with that done i was ready to add the scripts i needed as well as any other parts that i need in order to make the prototype function completely.
+
+## 2025/1/15
+
+Now that I had gotten all my resources together I began to make the level that would serve as the 1st one. I decided to utilise Shigeru Miyamoto's 1-1 level from the original Super Mario Bros as the inspiration for this level and as such it borrows the layout heavily from it. I have changed some parts up to add functions that my prototype includes such as the plan for tilting platforms as well as ones that can move.
+
+I then fixed up some code to make it function as a game, once done I could fully play the game.
 
 [Prototype repository](https://github.com/SilentVortex/Learning-Journal)
